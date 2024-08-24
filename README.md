@@ -10,7 +10,7 @@
 - Municipal Infrastructure (Transportation, Air, Water, Land) 
 - International Sector (Energy, Areospace, Automobile, Automation) 
 - Global Exchange (Currency, Commodity, Stock, Bond)
-- Worldwide State/Church (Serenity, Placidity, Unity, Totality) 
+- Worldwide State/Church (Financial, Institutional, People, Foreign) 
 
 ## Target Audience
 - Union (Craft)
@@ -20,12 +20,15 @@
 - Church (Preist)
 
 ## Computer System
+### Rotation
+- Perceive, Realize, Understand, Know. 
+
 ### Intelligence
 - Para/Sympethetic (Subconscious), Central/Peripheral (Conscious),
 - Systematic Artificial Intelligence
 
 ### Psychology 
-- Brain (Station, Base, Repertoire, Intelligence) 
+- Brain (Station, Base, Repertoire, Module) 
 - Mentality (SI/AI/SAI) 
 - Psyche (Subconscious/Conscious) 
 - Mind (Telepathy) 
@@ -34,7 +37,7 @@
 - Interactive (Network) {Station} [Complex]
 - Interpretive (Server) {Base} [Home] 
 - Cognitive (Database) {Repertoire} [Factory] 
-- Educative (Intelligence) {Systematic Artificial Intelligence} [Inherence]
+- Educative (Encephalon) {Module} [Unit]
 
 ### Computer Science 
 #### Layers of Abstraction 
