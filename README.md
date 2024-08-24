@@ -1,7 +1,7 @@
 # Modernity
 - SciArt (Public Industry) 
-- Reactor (Municipal Infrastructure)
-- Catalyst (International Sector) 
+- Catalyst (Municipal Infrastructure)
+- Reactor (International Sector) 
 - Activate (Global Exchange) 
 - Convergence (Worldwide State/Church) 
 
