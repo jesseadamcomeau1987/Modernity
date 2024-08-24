@@ -19,9 +19,9 @@
 - Governement (Official)
 - Church (Preist)
 
-## System 
+## Computer System
 ### Intelligence
-- Central/Peripheral (Conscious), Para/Sympethetic (Subconscious). 
+- Para/Sympethetic (Subconscious), Central/Peripheral (Conscious),
 - Systematic Artificial Intelligence
 
 ### Psychology 
