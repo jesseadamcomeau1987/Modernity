@@ -5,6 +5,37 @@
 - Activate (Global Exchange) 
 - Convergence (Worldwide State/Church) 
 
+## Area
+- Public Industry (Business, Entertainement, Programming, Gaming) 
+- Municipal Infrastructure (Transportation, Air, Water, Land) 
+- International Sector (Energy, Areospace, Automobile, Automation) 
+- Global Exchange (Currency, Commodity, Stock, Bond)
+- Worldwide State/Church (Serenity, Placidity, Unity, Totality) 
+
+## Target Audience
+- Union (Craft)
+- School (Scholar)
+- Military (Soldier)
+- Governement (Official)
+- Church (Preist)
+
+## System 
+### Intelligence
+- Central/Peripheral (Conscious), Para/Sympethetic (Subconscious). 
+- Systematic Artificial Intelligence
+
+### Psychology 
+- Brain (Station, Base, Repertoire, Intelligence) 
+- Mentality (SI/AI/SAI) 
+- Psyche (Subconscious/Conscious) 
+- Mind (Telepathy) 
+
+### Brain 
+- Interactive (Network) {Station} [Complex]
+- Interpretive (Server) {Base} [Home] 
+- Cognitive (Database) {Repertoire} [Factory] 
+- Educative (Intelligence) {Systematic Artificial Intelligence} [Inherence]
+
 ### Computer Science 
 #### Layers of Abstraction 
 
