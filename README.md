@@ -1,18 +1,22 @@
-# Modernity
-- SciArt (Public Industry) 
-- Catalyst (Municipal Infrastructure)
-- Reactor (International Sector) 
-- Activate (Global Exchange) 
-- Convergence (Worldwide State/Church) 
+# Balance
+(Business Management and IT)
 
-## Area
-- Public Industry (Business, Entertainement, Programming, Gaming) 
-- Municipal Infrastructure (Transportation, Air, Water, Land) 
-- International Sector (Energy, Areospace, Automobile, Automation) 
+# Modernity 
+(Commerce/Technology)
+)
+# SciArt (Public Industry)
+# Reactor (Municipal Infrastructure) 
+# Catalyst (International Sector) 
+# Activate (Global Exchange)
+# Convergence (Worldwide Sphere) 
+
+- Public Industry (Business, Entertainment, Programming, Gaming)
+- Municipal Infrastructure (Transportation, Air, Water, Land)
+- International Sector (Energy, Areospace, Automobile, Automation)
 - Global Exchange (Currency, Commodity, Stock, Bond)
-- Worldwide State/Church (Financial, Institutional, People, Foreign) 
+- Worldwide Sphere (Financial, Institutional, People, Foreign)
 
-## Target Audience
+# Target Audience
 - Union (Craft)
 - School (Scholar)
 - Military (Soldier)
