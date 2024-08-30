@@ -38,8 +38,8 @@
 - Mind (Problem Solving, Decision Making) 
 
 ### Brain 
-- Interactive (Network) {Station} [Complex]
 - Interpretive (Server) {Base} [Home] 
+- Interactive (Network) {Station} [Complex]
 - Cognitive (Database) {Repertoire} [Factory] 
 - Educative (Encephalon) {Module} [Unit]
 
