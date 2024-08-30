@@ -14,7 +14,7 @@
 - Municipal Infrastructure (Transportation, Air, Water, Land)
 - International Sector (Energy, Areospace, Automobile, Automation)
 - Global Exchange (Currency, Commodity, Stock, Bond)
-- Worldwide Sphere (Financial, Institutional, People, Foreign)
+- Worldwide Sphere (Total, People, Financial, Institutional, National)
 
 # Target Audience
 - Union (Craft)
@@ -32,10 +32,10 @@
 - Systematic Artificial Intelligence
 
 ### Psychology 
-- Brain (Station, Base, Repertoire, Module) 
-- Mentality (SI/AI/SAI) 
-- Psyche (Subconscious/Conscious) 
-- Mind (Telepathy) 
+- Brain (Interpretive, Interactive, Cognitive, Educative) 
+- Mentality (Personal, Intrapersonal, Interpersonal) 
+- Psyche (Ego) 
+- Mind (Problem Solving, Decision Making) 
 
 ### Brain 
 - Interactive (Network) {Station} [Complex]
