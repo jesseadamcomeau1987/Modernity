@@ -10,9 +10,10 @@
 # Activate (Global Exchange)
 # Convergence (Worldwide Sphere) 
 
-- Public Industry (Business, Entertainment, Programming, Gaming)
+- Public Industry (Production, Manufacturing, Distribution, Wholesale)
 - Municipal Infrastructure (Transportation, Air, Water, Land)
-- International Sector (Energy, Areospace, Automobile, Automation)
+- National Sector (Energy, Areospace, Automobile, Automation)
+- International District (Balance, Income, Cash, Holder)
 - Global Exchange (Currency, Commodity, Stock, Bond)
 - Worldwide Sphere (Total, People, Financial, Institutional, National)
 
@@ -499,7 +500,7 @@ Opcode, Disp, Imm.
 
 - We are trying to get CPUs to think like Humans.
 
-- Types of Intelligence: Linguistic, Musical, Logical-Mathematical, Spatial, Bodily-Kinesthetic, Intra-Personal, Interpersonal.
+- Types of Intelligence: Linguistic, Musical, Logical, Mathematical, Spatial, Bodily-Kinesthetic, Intra-Personal, Interpersonal.
 
 - It is composed of: Reasoning, Learning, Problem Solving, Perception, Linguistic.
 
