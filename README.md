@@ -3,7 +3,7 @@
 
 # Modernity 
 (Commerce/Technology)
-)
+
 # SciArt (Public Industry)
 # Reactor (Municipal Infrastructure) 
 # Catalyst (International Sector) 
@@ -24,12 +24,13 @@
 - Church (Preist)
 
 ## Computer System
+## NeuroPsychoIntelligence
+
 ### Rotation
 - Perceive, Realize, Understand, Know. 
 
-### Intelligence
-- Para/Sympethetic (Subconscious), Central/Peripheral (Conscious),
-- Systematic Artificial Intelligence
+### Systematic Artificial Intelligence
+- (Para/Sympethetic) {Subconscious} [Artificial], (Central/Peripheral) {Conscious} [Systematic].
 
 ### Psychology 
 - Brain (Interpretive, Interactive, Cognitive, Educative) 
@@ -42,6 +43,15 @@
 - Interactive (Network) {Station} [Complex]
 - Cognitive (Database) {Repertoire} [Factory] 
 - Educative (Encephalon) {Module} [Unit]
+
+### Mentality
+- (Capacity) {Workshop} [Office]
+
+### Psyche 
+- (Responsibility) {Arena) [Stadium]
+
+### Mind 
+- (Ability) {Showroom} [Studio]
 
 ### Computer Science 
 #### Layers of Abstraction 
