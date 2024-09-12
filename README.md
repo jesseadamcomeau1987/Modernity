@@ -17,42 +17,68 @@
 - Global Exchange (Currency, Commodity, Stock, Bond)
 - Worldwide Sphere (Total, People, Financial, Institutional, National)
 
-# Target Audience
-- Union (Craft)
-- School (Scholar)
-- Military (Soldier)
-- Governement (Official)
-- Church (Preist)
+## NPI Computer Systems
+
+## Systematic Artificial Intelligence
 
 ## Computer System
 ## NeuroPsychoIntelligence
 
-### Rotation
-- Perceive, Realize, Understand, Know. 
+## Rotation: 
+- Perceive, Realize, Understand, Explain. 
 
-### Systematic Artificial Intelligence
-- (Para/Sympethetic) {Subconscious} [Artificial], (Central/Peripheral) {Conscious} [Systematic].
+## Neurology: 
+## Segregated 
 
-### Psychology 
-- Brain (Interpretive, Interactive, Cognitive, Educative) 
+- Enteric (Emotion) {Disk}, Para/Symphetetic (Subconscious) {Board}, Somatic/Autonomic (Control) {Chip}, Motor (Body), Sensory (Mind) {Drive}, Central/Peripheral (Conscious) {Board}.
+
+## Psychology: 
+## Integrated 
+
+- Brain (Interpretive, Interactive, Cognitive, Educative ) 
+
 - Mentality (Personal, Intrapersonal, Interpersonal) 
+
 - Psyche (Ego) 
+
 - Mind (Problem Solving, Decision Making) 
 
-### Brain 
-- Interpretive (Server) {Base} [Home] 
+## Activity 
+
+## Brain: 
+
 - Interactive (Network) {Station} [Complex]
+- Interpretive (Server) {Base} [Home] 
 - Cognitive (Database) {Repertoire} [Factory] 
 - Educative (Encephalon) {Module} [Unit]
 
-### Mentality
-- (Capacity) {Workshop} [Office]
+## Action 
 
-### Psyche 
-- (Responsibility) {Arena) [Stadium]
+- Mentality: 
+(Capacity) {Workshop} [Office]
 
-### Mind 
-- (Ability) {Showroom} [Studio]
+- Psyche: 
+(Responsibility) {Arena} [Stadium]
+
+- Mind: 
+(Ability) {Showroom} [Studio] 
+
+## Intelligence: 
+## Classification, Categorization. 
+## Concatenated 
+
+- (Systematic) (Artificial)
+- (Logic, Syntactic), (Succinct)
+
+## Integrated 
+
+- (Action), (Activity).
+- (Mentality, Psyche, Mind), (Brain). 
+
+## Segregated 
+
+- (Conscious), (Subconscious). 
+- (Body/Mind), (Emotion, Control).
 
 ### Computer Science 
 #### Layers of Abstraction 
@@ -121,7 +147,7 @@ Limit.
 
 - Decimal: Has no Value. 
 
-- Binary: [1 = (on, yes, true, high)], or, [0 = (off, no, false,low)]. = 1 bit. 
+- Binary: [1 = (on, yes, true, high)], or, [0 = (off, no, false, low)]. = 1 bit. 
 
 - Nibble = 4 bits.
 
@@ -318,7 +344,7 @@ R: 64 bit.
 
 - There are Data, Address, and Control Buses.
 
-- They are Job-Specific Hugh-Speed Wires.
+- They are Job-Specific High-Speed Wires.
 
 - They carry Data. 
 
