@@ -18,8 +18,7 @@
 - Worldwide Sphere (Total, People, Financial, Institutional, National)
 
 ## NPI Computer Systems
-
-## Systematic Artificial Intelligence
+(Systematic Artificial Intelligence)
 
 ## Computer System
 ## NeuroPsychoIntelligence
