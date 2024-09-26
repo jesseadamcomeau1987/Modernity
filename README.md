@@ -1,5 +1,5 @@
-Jesse Adam Comeau
-Owner/Founder, Executive, Overseer, Advisor, Coach) 
-ANCE (America Network Conglomerate Experiment) 
-Business Administration
-Computer Science
+<p>Jesse Adam Comeau<br>
+Owner/Founder, Executive, Overseer, Advisor, Coach)<br>
+ANCE (America Network Conglomerate Experiment)<br>
+Business Administration<br>
+Computer Science<br></p>
